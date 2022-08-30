@@ -1,1 +1,1 @@
-A readme fie for my Git folder
+A readme file for my Git folder
